@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://thereal3rd.github.io/borger/](https://thereal3rd.github.io/borger/)
+> Open this page at [https://thereal3rd.github.io/borger/](https://thereal3rd.github.io/Borger/)
 
 ## Use as Extension
 
